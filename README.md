@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! Marketplace
+# YG Marketplace
 
 This website is just a personal project to guide my studies in Web development, and it is currently in a "work in progress" state. As of right now, it is in an extremely early state, and I intend to update it as I have free time.
 
@@ -18,7 +18,7 @@ This website is just a personal project to guide my studies in Web development, 
 
 ## Installation instructions
 
-Since the `SECRET_KEY` in `settings.py` is private, it is recommended to anybody who wishes to run this app locally to create a `.env` file in the root folder of this project, then add the line `SECRET_KEY = '<your secret key here>'`. To generate a secret key, it is recommended that users get a secret key from an app such as https://djecrety.ir\.  
+Since the `SECRET_KEY` in `settings.py` is private, it is recommended to anybody who wishes to run this app locally to create a `.env` file in the root folder of this project, then add the line `SECRET_KEY = '<your secret key here>'`. To generate a secret key, it is recommended that users get a secret key from an app.  
 After the secret key has been added to the local project, run the app with:
 
 ```
